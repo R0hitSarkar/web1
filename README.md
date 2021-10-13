@@ -1,2 +1,1 @@
-# web1
-48 hours
+This web page is made using HTML, CSS and JavaScript. The buttons under filter section can be used to filter the missions. I have added data manually and not integrated the API as I am still learning API integration and do not have hands on in it. I have created the page responsive using media query.
